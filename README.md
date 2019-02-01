@@ -775,7 +775,7 @@
   - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
   - [Top HN](https://tophn.info/) - A real time display of top news activity on Hacker News
   - [Euronews](http://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France.
-  - [Roozame روزامه(http://www.roozame.com) - Roozame is a Persian smart news media service.
+  - [Roozame روزامه](http://www.roozame.com) - Roozame is a Persian smart news media service.
   - [Koumoul](https://koumoul.com)
   - [NinjaCalc](http://ninja-calc.mbedded.ninja) - A suite of embedded engineering related calculators, built as an open-source single-page app with vue.js.
   - [Vue.js Feed](https://vuejsfeed.com/) - The latest Vue.js news, tutorials, plugins, and more. Made with Vue.js and Laravel, based on **[Vuedo](https://github.com/Vuedo/vuedo)**.
